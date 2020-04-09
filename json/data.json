@@ -2,6 +2,94 @@
 	{
 		"country_code": "US",
 		"country": "USA",
+		"total_confirmed": 83672,
+		"total_deaths": 1209,
+		"total_recovered": 1864,
+		"last_updated": "2020-03-26T00:00:10.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 102338,
+		"total_deaths": 1607,
+		"total_recovered": 2471,
+		"last_updated": "2020-03-27T00:00:14.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 123311,
+		"total_deaths": 2211,
+		"total_recovered": 3231,
+		"last_updated": "2020-03-28T00:00:12.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 141781,
+		"total_deaths": 2471,
+		"total_recovered": 4435,
+		"last_updated": "2020-03-29T00:00:13.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 163195,
+		"total_deaths": 3148,
+		"total_recovered": 5401,
+		"last_updated": "2020-03-30T00:00:13.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 185270,
+		"total_deaths": 3780,
+		"total_recovered": 6347,
+		"last_updated": "2020-03-31T00:00:12.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 214639,
+		"total_deaths": 5099,
+		"total_recovered": 8878,
+		"last_updated": "2020-04-01T06:48:14.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 244230,
+		"total_deaths": 5883,
+		"total_recovered": 10403,
+		"last_updated": "2020-04-02T00:00:09.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 276965,
+		"total_deaths": 7391,
+		"total_recovered": 12283,
+		"last_updated": "2020-04-03T00:00:08.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 310133,
+		"total_deaths": 8442,
+		"total_recovered": 14741,
+		"last_updated": "2020-04-04T00:00:05.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 336327,
+		"total_deaths": 9605,
+		"total_recovered": 17245,
+		"last_updated": "2020-04-05T00:00:06.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
 		"total_confirmed": 364885,
 		"total_deaths": 10859,
 		"total_recovered": 19573,
