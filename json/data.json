@@ -1,0 +1,18 @@
+[
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 364885,
+		"total_deaths": 10859,
+		"total_recovered": 19573,
+		"last_updated": "2020-04-06T00:00:06.000Z"
+	},
+	{
+		"country_code": "US",
+		"country": "USA",
+		"total_confirmed": 395612,
+		"total_deaths": 12790,
+		"total_recovered": 21674,
+		"last_updated": "2020-04-07T00:00:06.000Z"
+	}
+]
